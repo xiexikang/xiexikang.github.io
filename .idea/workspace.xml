@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da86f075-a709-42d7-a7d4-b79776154baf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont_674f50d2.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont_af7ae505.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont_b06871f2.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont_fee66e71.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/aboutMe_afa5e620.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/banner01_151eed37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/banner02_94516c68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/banner03_7f133c3a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/hitui-pc_7d09c346.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/hitui-wap_4a17a7e8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/qhsh-wap_59c43913.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tuliao-wap_0e00d72c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/wx-hitui_a7ab41b2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/wx-hjdgs_748d110d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/wx-hthdzx_3eed39b7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/yingnuo-pc_afaebcd5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zyjcb-wap_fa54f863.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xiexikang.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont_912ec66d.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,8 +15,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -116,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520923922415</updated>
-      <workItem from="1520923923907" duration="46000" />
+      <workItem from="1520923923907" duration="525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46000" />
+    <option name="totallyTimeSpent" value="525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -153,5 +150,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
