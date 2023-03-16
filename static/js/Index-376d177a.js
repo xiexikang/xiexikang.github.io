@@ -1,0 +1,1 @@
+import{_ as e,o,k as s,I as t}from"./.pnpm-add27f68.js";const c={},n={class:"Index-root"},_=t("h1",null,"我是首页",-1),a=[_];function r(d,i){return o(),s("main",n,a)}const f=e(c,[["render",r]]);export{f as default};
