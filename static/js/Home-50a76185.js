@@ -1,0 +1,1 @@
+import{_ as o}from"./@shijianguanlidashi-c8f8ffb4.js";import{o as e,c as t}from"./@vue-ed6f5200.js";import"./eval5-761294df.js";import"./js-cookie-08c1a0ad.js";const r={},c={class:"Home-root"};function s(n,m){return e(),t("main",c)}const p=o(r,[["render",s]]);export{p as default};

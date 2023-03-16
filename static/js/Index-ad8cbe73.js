@@ -1,0 +1,1 @@
+import{_ as o}from"./@shijianguanlidashi-c8f8ffb4.js";import{o as e,c as t,a as s}from"./@vue-ed6f5200.js";import"./eval5-761294df.js";import"./js-cookie-08c1a0ad.js";const c={},n={class:"Index-root"},r=s("h1",null,"我是首页",-1),_=[r];function a(i,d){return e(),t("main",n,_)}const h=o(c,[["render",a]]);export{h as default};
